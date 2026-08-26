@@ -1,0 +1,92 @@
+[
+  {
+    "id": "PED-1001",
+    "sale_date": "2026-08-01",
+    "client": "Empresa ABC Ltda",
+    "product": "PISO LAMINADO PRIME CLICK ANDORRA NEW",
+    "qty": 3,
+    "planned_date": "2026-08-05",
+    "installed_date": "2026-08-05"
+  },
+  {
+    "id": "PED-1002",
+    "sale_date": "2026-08-02",
+    "client": "Condomínio Bela Vista",
+    "product": "PISO LAMINADO PRIME CLICK CARVALHO MAIORCA",
+    "qty": 1,
+    "planned_date": "2026-08-08",
+    "installed_date": "2026-08-07"
+  },
+  {
+    "id": "PED-1003",
+    "sale_date": "2026-08-03",
+    "client": "João da Silva",
+    "product": "PISO LAMINADO PRIME CLICK CARVALHO NEW",
+    "qty": 6,
+    "planned_date": "2026-08-10",
+    "installed_date": "2026-08-10"
+  },
+  {
+    "id": "PED-1004",
+    "sale_date": "2026-08-05",
+    "client": "Escola Futuro",
+    "product": "PISO LAMINADO PRIME CLICK CARVALHO NEW",
+    "qty": 2,
+    "planned_date": "2026-08-12",
+    "installed_date": ""
+  },
+  {
+    "id": "PED-1005",
+    "sale_date": "2026-08-06",
+    "client": "Residencial Solar",
+    "product": "VINILICO CHATEAU DECOR ANGLAIS 92X92CM",
+    "qty": 12,
+    "planned_date": "2026-08-09",
+    "installed_date": ""
+  },
+  {
+    "id": "PED-1006",
+    "sale_date": "2026-08-07",
+    "client": "Tech Solutions",
+    "product": "PISO LAMINADO PRIME CLICK FRESNO DECAPE NEW",
+    "qty": 5,
+    "planned_date": "2026-08-15",
+    "installed_date": ""
+  },
+  {
+    "id": "PED-1007",
+    "sale_date": "2026-08-08",
+    "client": "Mercado Silva",
+    "product": "VINILICO CHATEAU DECOR ANGLAIS 92X92CM",
+    "qty": 4,
+    "planned_date": "2026-08-14",
+    "installed_date": "2026-08-14"
+  },
+  {
+    "id": "PED-1008",
+    "sale_date": "2026-08-09",
+    "client": "Padaria Central",
+    "product": "VINILICO CHATEAU DECOR SAUMUR 92X92CM",
+    "qty": 1,
+    "planned_date": "2026-08-16",
+    "installed_date": ""
+  },
+  {
+    "id": "PED-1009",
+    "sale_date": "2026-08-10",
+    "client": "TESTE",
+    "product": "VINILICO CHATEAU DECOR MONTPOUPON 92X92CM",
+    "qty": 10,
+    "planned_date": "2026-08-17",
+    "installed_date": ""
+  },
+  {
+    "id": "PED-1010",
+    "sale_date": "2026-08-13",
+    "client": "claudia",
+    "product": "VINILICO MAGNIFIQUE JOLIE",
+    "qty": 15,
+    "planned_date": "2026-08-13",
+    "installed_date": "2026-08-13"
+  }
+]
